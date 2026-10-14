@@ -1,4 +1,4 @@
-# Humanoid Journey 🤖
+# Humanoid Robotics Roadmap
 
 A 30-month structured roadmap to become a robotics engineer, focused on bipedal humanoid robots and sim-to-real transfer.
 
